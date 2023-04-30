@@ -33,7 +33,7 @@ public class Addon extends MeteorAddon {
 
     @Override
     public void onRegisterCategories() {
-        Modules.registerCategory(CATEGORY);
+        Modules.registerCategory(HEEDI);
     }
 
     @Override
