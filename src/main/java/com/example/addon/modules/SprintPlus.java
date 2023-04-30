@@ -8,7 +8,7 @@ import meteordevelopment.orbit.EventHandler;
 
 public class SprintPlus extends Module {
     public SprintPlus() {
-        super(Addon.HEEDI, "SprintPlus", "Alows you to sprint automatically");
+        super(Addon.HEEDI, "SprintPlus", "Alows you to sprint in any direction automatically");
     }
 
     @EventHandler
