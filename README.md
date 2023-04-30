@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/heedii/heedi-addon/main/src/main/resources/assets/logo.png" alt="" width="35%"/>
+<img src="https://raw.githubusercontent.com/heedii/heedi-addon/main/src/main/resources/assets/template/logo.png" alt="" width="35%"/>
 </p>
 
 <h1 align="center">HeediAddon</h1>
