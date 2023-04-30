@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "heediaddon",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "HeediAddon",
+  "description": "Based Anarchy/Legit Addon",
   "authors": [
-    "seasnail"
+    "heedi"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/heedii/heediaddon"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/template/logo.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
