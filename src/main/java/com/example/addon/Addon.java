@@ -2,7 +2,7 @@ package com.example.addon;
 
 import com.example.addon.commands.CommandExample;
 import com.example.addon.hud.Watermark;
-import com.example.addon.modules.ModuleExample;
+import com.example.addon.modules.SprintPlus;
 import com.mojang.logging.LogUtils;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.systems.commands.Commands;
@@ -22,7 +22,7 @@ public class Addon extends MeteorAddon {
         LOG.info("Initializing HeediAddon...");
 
         // Modules
-        Modules.get().add(new ModuleExample());
+        Modules.get().add(new SprintPlus());
 
         // Commands
         Commands.get().add(new CommandExample());
